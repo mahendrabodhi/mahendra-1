@@ -1,0 +1,4 @@
+Product Sale Log
+*************************
+Product: Laptop, Sold: 2, Date: 2025-02-10
+Product: Smartphone, Sold: 5, Date: 2025-02-10

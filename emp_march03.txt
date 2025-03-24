@@ -1,0 +1,12 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_title,salary,department_id,manager_id
+101,John,Doe,john.doe@example.com,1234567890,2020-06-15,Software Engineer,70000,10,201
+102,Jane,Smith,jane.smith@example.com,9876543210,2018-08-22,Data Analyst,65000,20,202
+103,Mike,Johnson,mike.johnson@example.com,7894561230,2019-03-10,Product Manager,90000,30,203
+104,Susan,Brown,susan.brown@example.com,8521479630,2021-11-05,HR Manager,75000,40,204
+105,David,Wilson,david.wilson@example.com,9632587410,2017-07-19,Finance Analyst,72000,50,205
+106,Emily,Clark,emily.clark@example.com,7418529630,2019-09-23,Software Engineer,78000,10,201
+107,Daniel,Martinez,daniel.martinez@example.com,1593574680,2022-01-30,DevOps Engineer,85000,20,202
+108,Jessica,Anderson,jessica.anderson@example.com,7531598520,2016-04-12,Marketing Manager,82000,30,203
+109,Thomas,White,thomas.white@example.com,8523697410,2023-02-28,HR Executive,68000,40,204
+110,Sophia,Hall,sophia.hall@example.com,9513572580,2015-10-10,Sales Executive,60000,50,205
+

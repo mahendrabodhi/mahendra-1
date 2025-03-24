@@ -1,0 +1,37 @@
+{
+    "Electronics": {
+        "iPhone 15": {"price": 999, "store": "NYC Store"},
+        "Samsung Galaxy S23": {"price": 849, "store": "Los Angeles Store"},
+        "Sony Headphones": {"price": 199, "store": "Chicago Store"},
+        "Dell Laptop": {"price": 1199, "store": "San Francisco Store"},
+        "Apple Watch": {"price": 399, "store": "Houston Store"}
+    },
+    "Clothing": {
+        "Men's T-Shirt": {"price": 20, "store": "New York Mall"},
+        "Women's Jeans": {"price": 50, "store": "Dallas Store"},
+        "Nike Shoes": {"price": 120, "store": "Seattle Outlet"},
+        "Leather Jacket": {"price": 250, "store": "Miami Mall"},
+        "Adidas Cap": {"price": 25, "store": "Boston Store"}
+    },
+    "Home Appliances": {
+        "Microwave Oven": {"price": 150, "store": "NYC Warehouse"},
+        "Refrigerator": {"price": 1200, "store": "San Diego Store"},
+        "Washing Machine": {"price": 899, "store": "Houston Outlet"},
+        "Air Conditioner": {"price": 999, "store": "Las Vegas Store"},
+        "Vacuum Cleaner": {"price": 299, "store": "Chicago Store"}
+    },
+    "Groceries": {
+        "Olive Oil (1L)": {"price": 12, "store": "Texas Supermarket"},
+        "Basmati Rice (5kg)": {"price": 20, "store": "San Francisco Market"},
+        "Almonds (500g)": {"price": 15, "store": "Florida Grocery"},
+        "Organic Honey": {"price": 10, "store": "Seattle Superstore"},
+        "Green Tea": {"price": 8, "store": "Boston Store"}
+    },
+    "Toys": {
+        "LEGO Set": {"price": 45, "store": "NYC Toy Shop"},
+        "Remote Control Car": {"price": 60, "store": "Chicago Toys"},
+        "Barbie Doll": {"price": 25, "store": "Houston Mall"},
+        "Action Figures": {"price": 35, "store": "Los Angeles Mall"},
+        "Board Games": {"price": 30, "store": "San Francisco Outlet"}
+    }
+}

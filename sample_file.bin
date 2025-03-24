@@ -1,0 +1,30 @@
+{
+    "Electronics": {
+        "iPhone 15": 999,
+        "Samsung Galaxy S23": 849,
+        "Sony Headphones": 199,
+        "Dell Laptop": 1199,
+        "Apple Watch": 399
+    },
+    "Clothing": {
+        "Men's T-Shirt": 20,
+        "Women's Jeans": 50,
+        "Nike Shoes": 120,
+        "Leather Jacket": 250,
+        "Adidas Cap": 25
+    },
+    "Home Appliances": {
+        "Microwave Oven": 150,
+        "Refrigerator": 1200,
+        "Washing Machine": 899,
+        "Air Conditioner": 999,
+        "Vacuum Cleaner": 299
+    },
+    "Groceries": {
+        "Olive Oil (1L)": 12,
+        "Basmati Rice (5kg)": 20,
+        "Almonds (500g)": 15,
+        "Organic Honey": 10,
+        "Green Tea": 8
+    }
+}
